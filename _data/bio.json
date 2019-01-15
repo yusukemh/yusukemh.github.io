@@ -2,7 +2,7 @@
   "basics": {
     "name": "Yusuke Hatanaka",
     "label": "Student",
-    "picture": "https://yusukemh.github.io/images/molly.png",
+    "picture": "https://yusukemh.github.io/images/myface.png",
     "email": "yusukemh@hawaii.edu",
     "phone": "808-200-9223",
     "website": "https://yusukemh.github.io",
@@ -87,8 +87,8 @@
       "highlights": [
         
       ]
-    },
-    /*{
+    }/*,
+    {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
