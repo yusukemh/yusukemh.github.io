@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/battle.png
-title: Pokemon Battle
+title: Bank Account Management Simulator
 permalink: projects/bankmanagement
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
