@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Individual Project: Pokemon Battle
+title: Pokemon Battle
 published: true
 permalink: projects/pokemonbattle
 # All dates must be YYYY-MM-DD format!
