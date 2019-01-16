@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Pokemon.png
 title: Pokemon Battle
 published: true
 permalink: projects/pokemonbattle
