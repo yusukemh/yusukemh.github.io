@@ -3,7 +3,8 @@ layout: project
 type: project
 image: images/battle.jpg
 title: Individual Project: Pokemon Battle
-permalink: projects/micromouse
+published: true
+permalink: projects/PokemonBattle
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
