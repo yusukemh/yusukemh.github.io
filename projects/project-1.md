@@ -13,33 +13,11 @@ labels:
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
-In one of the Programming course at Kapiolani Community College, students had an individual project and I created a game where the game in Pokemon Go was simulated. For the whole semester, Java was taught by the professor using the concept of Pokemon. The last component of the class was GUI using Java. Everyone was told to write a code to simulate the senario in Pokemon Go.
+In one of the Programming course at Kapiolani Community College, students had an individual project and I created a game where the game in Pokemon Go was simulated. For the whole semester, Java was taught by the professor using the concept of Pokemon. Students consequitively worked on creating classes of and for Pokemons. For the last component of the class, which was GUI using Java, each individual student wrote a code for the game. Since GUI was not deeply taught in class, I was expected to do a lot of research on my own to cmoplete the assignment. This helped me realize that there is plenty of resources available online, and it is not impossible, if anything, to teach myself how to write a code.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The requirement for the assignment was to simply create a random instance of a Pokemon and ask user to add to data structure with appropriate GUI provided for the user. However, As I worked on the project, I became more and more passionate and added many other features to my game. First, I made it posible for user to choose and keep a specific Pokemon as their partner. Then, instead of just adding another Pokemon to the data structure, I implemented the battle; user can now use the partner to fight the wild pokemon. Unless the wild pokemon is weak enough, and your partner Pokemon is still alive, the user cannot catch the Pokemon.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The code needed to be pretty complecated and long, so I spend significant amount of time for the project. As a result, I received an email from the professor, saying my game was one of the best that she had seen. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
+Throught this project, I learned significant aspects about computer science; the accesibility of open resources and the endless possibility of implementation. 
 
