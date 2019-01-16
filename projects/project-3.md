@@ -13,11 +13,11 @@ labels:
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/cotton-header.png">
 
 This was the very first project in my life that I worked on by myself. The first programming language I learned was BASIC. I was 18 years old when I worked on this project and the only language I knew was BASIC, which my father taught me. Using my knoledge about physics, I wanted to try to test my skill to simulate the movement of stars in the space. The project simulates the movement of multiple objects with velocity, coordinates, accelelation, and mass. I used the actual equation to calculate the variables for each objects, and printed out to the screen so that user can actually see the movement.
 
-This project was triggered by me with a simple intention to represent the physical phenomenon. I spent a lot of time to make the code work and to make the code simple. 
+This project was triggered by myself with a simple intention to represent the physical phenomenon. I spent a lot of time to make the code work but to keep the code simple. 
 
 
 
