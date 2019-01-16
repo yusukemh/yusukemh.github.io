@@ -5,7 +5,7 @@ image: images/battle.png
 title: Bank Account Management Simulator
 permalink: projects/bankmanagement
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-2
+date: 2018-12-02
 labels:
   - UI
   - C
