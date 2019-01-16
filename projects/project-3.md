@@ -2,17 +2,26 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Astronomy Simulator
+permalink: projects/astronomy
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2014-01-10
 labels:
-  - Lisp
-  - GitHub
+  - BASIC
+  - Simulator
+  - Physics
 summary: A text adventure game I developed for ICS 313.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+
+This was the very first project in my life that I worked on by myself. The first programming language I learned was BASIC. I was 18 years old when I worked on this project and the only language I knew was BASIC, which my father taught me. Using my knoledge about physics, I wanted to try to test my skill to simulate the movement of stars in the space. The project simulates the movement of multiple objects with velocity, coordinates, accelelation, and mass. I used the actual equation to calculate the variables for each objects, and printed out to the screen so that user can actually see the movement.
+
+This project was triggered by me with a simple intention to represent the physical phenomenon. I spent a lot of time to make the code work and to make the code simple. 
+
+
+
+
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
