@@ -74,18 +74,44 @@
       "gpa": "4.0",
       "courses": [
       ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "Spring 2015",
+      "endDate": "Spring 2018",
+      "gpa": "3.85",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
       "company": "Kapiolani Community College STEM Center",
       "position": "Peer Mentor",
-      "website": "A peer mentor to help students have more understandings with their courses.",
+      "website": "https://www.kapiolani.hawaii.edu/campus-life/student-services/counseling_form/student-success-peer-mentors/",
       "startDate": "2018-08-24",
       "endDate": "Present",
-      "summary": "",
+      "summary": "The Student Success Peer Mentor Program",
       "highlights": [
-        
+        "A peer mentor to help students in ICS courses.";
+        "Supported school events associated STEM";
+      ]
+    }
+  ],
+  “volunteer”: [
+    {
+      "organization": "Japan Circle",
+      "website": "https://lccjapancircle.weebly.com/",
+      "position": "Vice President",
+      "startDate": "2015-Fall",
+      "endDate": "2016-Spring",
+      "summary": "A club at Leeward Community College",
+      "highlights": [
+        "Planed and presented activities for the members.",
+        "Organize and manage the events.",
+        "Attended a community festival to interact with local kids"
       ]
     }
   ],
