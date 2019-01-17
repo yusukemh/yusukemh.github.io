@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/space_square.jpg
+image: images/space_square.png
 title: My First Project in My Life
 permalink: projects/simulator
 # All dates must be YYYY-MM-DD format!
