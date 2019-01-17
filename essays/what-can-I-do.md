@@ -9,26 +9,12 @@ labels:
   - Learning
 ---
 
+## What is software engineering to me?
+Software engineering is now very active and essential field in this world. Everybody is quickly and effectively connected via internet and a lot of big business is highly dependent on this field. It is no wonder I grew interest in software engineering given I have been surronded by highly developed technologies. To me, software engineering is a field that can satisfy my passion, which is to keep learning something new. Programming languages are still developing and there is always something I need to learn. It is an endless pursuit of my interest and passion.
 
+## How is this field appealing?
+On of the most appealing points of software engineering is that it is an ultimate form of cutomization. Thanks to the nature of programming languages that there are a lot of variations in code, we can build a software and websites as we specifically want. What is more, to do so, all what we need is a laptop. This helps us to strengthen the ability to design and construct softwares with a diverse possibility. 
 
-
-
-
-
-
-
-
-One of the most attracting features of Computer Science is that it is available to anybody. The resource is literally everywhere, there are plenty of free tutorials, and working environment with high technology, such as high-spec computers, highly developed softwares, and free online IDEs, is getting more and more affordable to everybody. This means that more and more people can develop the potential to become a programmer. Then, what is important in this era as one of the programmers? What makes you stand out among many other people who are also trying to be programmers?
-
-Speaking of myself, I want to be able to connect Computer Science with other fields. I have seen people working in other scientfic fields as programmer, but what they say is that; there are plenty of programmers in web or software development and other fields that are strongly associated with computer science, but in some fields such as medicine and physics, they are short of people who can write codes. This means that there needs people who are familiar with scientific field but also familirar with coding.
-
-This may sound unrealistic, because if I want to be the one, I have to first finish this major and then study another field to become professional in the field, too. This is really challenging for me, and so is for anybody else. So, instead of
-
-
-
-
-
-
-
-
+## What is my goal?
+For now, my goal is to acquire the skill to develop a website. Developing a website is the closest way to get connected to the world and the way the website is designed really depends on whoever writes the code. Website is an easiest way to develop and express my skill to people.
 
