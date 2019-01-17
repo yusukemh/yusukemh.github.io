@@ -13,7 +13,7 @@ labels:
 summary: Pokemon battile simulator as an individual project for ICS 211
 ---
 
-<img class="ui huge centered floated rounded spaced image" src="../images/PokemonBattle.png">
+<img class="ui huge centered floated rounded image" src="../images/PokemonBattle.png">
 
 
   In one of the Programming courses at Kapiolani Community College, students had an individual project and I created a game where the game in Pokemon battle was simulated. For the whole semester, Java was taught by the professor using the concept of Pokemon. Students consequitively worked on creating classes of and for Pokemons. For the last component of the class, which was GUI using Java, each individual student wrote a code for the game. Since GUI was not deeply taught in class, I was expected to do a lot of research on my own to cmoplete the assignment. This helped me realize that there is plenty of resources available online, and it is not impossible, if anything, to teach myself how to write a code.
