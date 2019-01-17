@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/space_square.jpg
 title: My First Project in My Life
 permalink: projects/simulator
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A simple simulator to calculate the movement of stars in the space.
 ---
 
-<img class="ui image" src="../images/cotton-header.png">
+<img class="ui image" src="../images/simulator.png">
 
 This was the very first project in my life that I worked on by myself. The first programming language I learned was BASIC. I was 18 years old when I worked on this project and the only language I knew was BASIC, which my father taught me. Using my knoledge about physics, I wanted to try to test my skill to simulate the movement of stars in the space. The program simulates the movement of multiple objects with velocity, coordinates, accelelation, and mass. I used the actual equation to calculate the variables for each objects, and printed out to the screen so that user can actually see the movement.
 
