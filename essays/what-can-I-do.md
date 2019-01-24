@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What can 'I' do?
+title: What Can 'I' Do?
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-16
 labels:
