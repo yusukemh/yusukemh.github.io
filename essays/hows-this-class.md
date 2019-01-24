@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How does this class seem to me?
+title: How Does This Class Seem To Me?
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-17
 labels:
