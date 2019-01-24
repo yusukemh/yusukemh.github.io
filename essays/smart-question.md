@@ -15,7 +15,11 @@ One might say; thanks to the Internet, we can find anything on the Internet, and
 
 Lesson learned? Your question is special. Therefore you need to be good at describing your situation well. But how? Thankfully, an American software developer, Eric Steven Raymond, gives you guidelines about how to be good at asking questions in his essay: “[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).” Based on advice provided, I found a "smart" question, and "not smart" question on Stack Overflow that both help demonstrate Eric's point.
 
-Here is an example of a "smart" qestion. 
+Here is an example of a "smart" qestion. [How to install JAVA 8 on Mac](https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac). The question describes how the person tries to install a new release version of JAVA, but it is not properly installed in the correct location by the installer as the person wants. First of all, the header is precise, but descriptive; as soon as you read the heaher, you can know that the person is trying to install JAVA 8, not just any JAVA, on Mac. Then on the body of the question, the person goes even further. All the versions of the programming language, version, IDE software, and operating system are clearly shown. The person describes how s/he tried couple of commands but all failed. The question is clear how the installer puts the file whenever and how that is problematic. At the end, we can again see what the person really wants to know and how the problem can be solved. As a result, the answer provides a good solution. All the following comments show how the question is time-sensitive thus everybody is reffering to the version of softwares they are talking about.
+
+Unfortunately but expectedly, some questions are asked in a "not smart way." I hope this could be a good example of such: [Constructors giving me an headache Java](https://stackoverflow.com/questions/33385347/constructors-giving-me-an-headache-java)
+
+
 
 
 
