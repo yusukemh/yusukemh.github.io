@@ -10,7 +10,7 @@ date: 2018-05-01
 labels:
   - Java
   - GUI
-summary: Pokemon battile simulator as an individual project for ICS 211
+summary: Pokemon battile simulator as an individual project for ICS 211.
 ---
 
 <img class="ui huge centered floated rounded image" src="../images/PokemonBattle.png">
