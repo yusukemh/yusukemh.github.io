@@ -32,7 +32,6 @@ console.log(sum(numList));
 ```
 This changes into:
 ```
-```
 const numList = [1, 2, 3, 4, 5];
 function sum(list) {
 return _.reduce(list, (memo, item) => (memo + item), 0);
