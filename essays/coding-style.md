@@ -40,7 +40,7 @@ console.log(sum(numList));
 ```
 This is how the coding style enforces me to write.
 Now, there are two types of changes;
-First one is putting extra spaces within the code. This significantly increases the readability because the original code is squished in such a little space, making brackets right next to each other.
+First one is putting extra spaces within the code. This significantly increases the readability because the original code is squished in such a little space, making the code hard to read.
 The other type of change is potentially related to preventing bugs. ‘let’ is now ‘const’, preventing the variable from changing its value by chance. Moreover, the parameter to the function is now called ’list’, making it obvious that the parameter is not necessarily the same as the global variable. The unnecessary variable ‘temp’ is now removed, because it is never used. This makes the code simple too.
 
 One thing to note is that both the original and revised codes compile and work perfectly fine. In a sense, you can write your code however you want as long as it compiles and works fine. However, coding style does make change in terms of quality of your code, and that for sure helps you write in a better manner and saves you a lot of time.
