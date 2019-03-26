@@ -16,12 +16,17 @@ labels:
 ## Contents
 The app contains:
  * Log in, Log out, Sign up
- * Students' profile
- * Professors' review
- * Courses available to students
+ * Landing Page: Welcome message general information of the website.
+ * Students List: All the registered users
+ * Courses List: All the courses provided during a semester with the list of student users who have registered for the course. It also has list of professors who teaches the course during the semester.
+ * Send Request: Send request to admin user do report any issue (add/edit/delete courses, professors, reviews )
  
 ## Case Ideas
 Admin user can add/delete/edit courses, professors, and review all students' information.
 All users can send admin user the request for above actions.
 
 ## Beyond the Basics
+All users can switch whether make their information public or private.
+
+## Group Member
+* none
