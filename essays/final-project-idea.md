@@ -21,8 +21,13 @@ The app contains:
  * Chat Room: Send messages among students.
  
 ## Case Ideas
-Admin user can add/delete/edit courses, professors, and review all students' information.
-All users can send admin user the request for above actions.
+* Admin user can add/delete/edit courses, professors, and review all students' information.
+* All users can send admin user the request for above actions.
+* Teachers can add/delete/edit courses that they teach.
+
+## Beyond the Basic
+* All students can post review of the course/professor.
+* All students can set to make their information private/public
 
 ## Group Member
-* none
+* Ronnie Kauanoe
