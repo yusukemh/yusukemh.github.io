@@ -15,10 +15,14 @@ labels:
 The app contains:
  * Log in, Log out, Sign up
  * Landing Page: Welcome message and general information of the website.
+ * Instruction: To provide uses with walkthrough of the app.
  * Students List: All the registered users
  * Courses List: All the courses provided during a semester with the list of student users who have registered for the course. It also has list of professors who teaches the course during the semester.
- * Send Request: Send request to admin user do report any issue (add/edit/delete courses, professors, reviews)
- * Chat Room: Send messages among students.
+ * Chat Room: A page to send messages among registered members.
+ * *Send Request*: A page to send a request to admin user do report any issue (add/edit/delete courses, professors, reviews) for **Students and Teachers** 
+ * *My Classes*: List of classes for **Teachers**.
+ * *My Classes*: List of classes for **Students**.
+ * *Reports*: List of reports from students/professors for **Admin**.
  
 ## Case Ideas
 * Admin user can add/delete/edit courses, professors, and review all students' information.
