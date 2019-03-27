@@ -35,3 +35,4 @@ The app contains:
 
 ## Group Member
 * Ronnie Kauanoe
+* Nicholas Miyamoto-Pennywell
