@@ -11,7 +11,8 @@ labels:
 
 0 or 100. This, I believe, is the basic and the most fundamental principle when it comes to "automated" devices. 
 
-Our life is becoming more and more convenient and efficient thanks to devices that can do jobs and decision making for human beings. Some involve simple programing while others have to deal with complex situations thus having to implement highly developed artificial intelligence. One example of the latter would be automated car driving system, which can instantly become controversy issue involving ethical consideration. 
+Our life is becoming more and more convenient and efficient thanks to devices that can do jobs and decision making for human beings. Some involve simple programing while others have to deal with complex situations thus having to implement highly developed artificial intelligence. One example of the latter would be automated car driving system, which can instantly become controversial issue involving ethical consideration. 
 
+[This article](https://www.technologyreview.com/s/542626/why-self-driving-cars-must-be-programmed-to-kill/) gives you brief idea why automated driving systems have to deal with ethical issue. Briefly speaking, there are some situations where no sacrifice can be avoided on the road, and it becomes utterly complicated how the system has to be programmed by manufactures. 
 
-** !! edit the title !! **
+## edit the title, please
