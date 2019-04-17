@@ -19,4 +19,4 @@ Question can arise non-stop. The situation can be much complex with practically 
 
 The simplest answer is: stop programming if it is not perfect. Yes, it is true that automated systems can help us to a great extent, but there is one fundamental idea; they are just helping us, not taking control from us. As soon as they take over full control from us, that's when the system has to be perfect. Otherwise, humans are the final decision makers. Instead of trying to figure out how to deal with infinitely complex situations, make it humans' decision. Or, try to avoid getting into unavoidable situation, which is impossible.
 
-In the end, drivers are the final decision maker. 
+In the end, drivers are the final decision maker. No matter what, they should not be separated from the obligation for the safety and the responsibility of consequences. 
