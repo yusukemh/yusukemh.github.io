@@ -15,4 +15,4 @@ Design patterns are patterned types of structures of code, to cope with repetiti
 
 One of the well known design patterns is Publish Subscribe Design Pattern. The way it works is first, what we call publisher "publishes" data, not necessarily knowing which component of the project would refer to it. Then, in order to retrieve the published data, each component has to "subscribe" the publication. This greatly enhances flexibility of use of data. 
 
-MongoDB directly applies this idea to its functionality, 
+MongoDB directly applies this idea to its functionality, and I have experienced the design pattern over the course of this semester of Spring 2019 at UH Manoa. 
