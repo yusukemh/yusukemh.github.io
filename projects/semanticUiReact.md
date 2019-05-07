@@ -15,7 +15,7 @@ labels:
 summary: A group final project for ICS314 at UH Manoa
 ---
 
-<img class="ui small image" src="../images/myuhclub_landing.png">
+<img class="ui huge image" src="../images/myuhclub_landing.png">
 
 This project was assigned as final project for ICS314 at UH Manoa. Throughout the semester, the class focused on development of web app using semantic ui.
 
