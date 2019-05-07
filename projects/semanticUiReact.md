@@ -17,6 +17,18 @@ summary: A group final project for ICS314 at UH Manoa
 
 <img class="ui small image" src="../images/myuhclub_landing.png">
 
+This project was assigned as final project for ICS314 at UH Manoa. Throughout the semester, the class focused on development of web app using semantic ui.
+
+Since it was a group project, I worked with three other great students; my very first project to work on with other people. Our team was assigned to make an web app to deal with all Registered Independent Organizations (RIOs) at UH Manoa, which adds up to over two hundred, so that users can find which RIO would fit them. User can have their own account to save their favorite RIO and to have an access to developers. As one of the objectives of the class, we learned how to use MongoDB, so we also incorporated the database to easily deal with data in a big scale. 
+
+Within the team, I mainly worked on UI design and a little bit on data manipulation. I had to work on how to 
+
+Besides working on UI design and data manipulation, the next biggest achievement through this project was that I learned how to work on a single project with multiple people at the same time.
+
+
+
+
+
 This was the very first project in my life that I worked on by myself. The first programming language I learned was BASIC. I was 18 years old when I worked on this project and the only language I knew was BASIC, which my father taught me. Using my knowledge about physics, I wanted to try to test my skill to simulate the movement of stars in the space. The program simulates the movement of multiple objects with velocity, coordinates, acceleration, and mass. I used the actual equation to calculate the variables for each objects, and printed out to the screen so that user can actually see the movement.
 
 This project was triggered by myself with a simple intention to represent the physical phenomenon. I spent a lot of time to make the code work but to keep the code simple at the same time. Since this project was not by any means assigned by anyone, I was able to work freely on the code. Not much research was needed, because I knew I would be able to write the code. I spent adequate time for analyzing the algorithm and what I actually had to do was to translate the algorithm into programing language and find bugs.
