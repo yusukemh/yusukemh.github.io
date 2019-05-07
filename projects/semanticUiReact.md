@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/semanticUIreact.png
+image: images/semanticUIreact_logo.png
 title: MyUH Club
 permalink: projects/myuhclub
 # All dates must be YYYY-MM-DD format!
