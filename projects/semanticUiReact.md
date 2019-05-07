@@ -15,7 +15,7 @@ labels:
 summary: A group final project for ICS314 at UH Manoa
 ---
 
-<img class="ui image" src="../images/simulator.png">
+<img class="ui small image" src="../images/myuhclub_landing.png">
 
 This was the very first project in my life that I worked on by myself. The first programming language I learned was BASIC. I was 18 years old when I worked on this project and the only language I knew was BASIC, which my father taught me. Using my knowledge about physics, I wanted to try to test my skill to simulate the movement of stars in the space. The program simulates the movement of multiple objects with velocity, coordinates, acceleration, and mass. I used the actual equation to calculate the variables for each objects, and printed out to the screen so that user can actually see the movement.
 
