@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: How Does This Class Seem To Me?
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-17
