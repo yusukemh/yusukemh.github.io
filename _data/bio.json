@@ -6,7 +6,7 @@
     "email": "yusukemh@hawaii.edu",
     "phone": "808-200-9223",
     "website": "https://yusukemh.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,13 +30,19 @@
   },
   "interests": [
     {
-      "name": "Web development",
+      "name": "Data Science",
       "keywords": [
         
       ]
     },
     {
-      "name": "Scientific simulation",
+      "name": "Scientific Simlator",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Web Development",
       "keywords": [
       ]
     },
@@ -51,9 +57,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Python",
+        "Java",
         "C",
         "C++",
-        "Java",
+        "C#",
+        "HTML",
+        "Javascript",
       ]
     },
     {
@@ -61,6 +71,15 @@
       "level": "",
       "keywords": [
         "MacOS",
+      ]
+    },
+    {
+      "name": "Other skills",
+      "level": "",
+      "keywords": [
+        "Japanese: native speaker",
+        "Flute",
+        "Rugby Football",
       ]
     }
   ],
@@ -88,11 +107,35 @@
   ],
   "work": [
     {
+      "company": "Kaneohe Bay Ocean Sports",
+      "position": "Tour Guide",
+      "website": "",
+      "startDate": "2015-11-1",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Tour guide/interpreter for Japanese customers",
+        "Provide safe and fun environment for customers",
+      ]
+    }
+    {
+      "company": "Sushi Izakaya Gaku",
+      "position": "Server",
+      "website": "",
+      "startDate": "2018-7-24",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Server at an authentic Japanese restaurant",
+        "Explain and serve Japanese traditional food and sake to the guests",
+      ]
+    }
+    {
       "company": "Kapiolani Community College STEM Center",
       "position": "Peer Mentor",
       "website": "https://www.kapiolani.hawaii.edu/campus-life/student-services/counseling_form/student-success-peer-mentors/",
       "startDate": "2018-08-24",
-      "endDate": "Present",
+      "endDate": "2019-5-11",
       "summary": "The Student Success Peer Mentor Program",
       "highlights": [
         "A peer mentor to help students in ICS courses.",
@@ -112,6 +155,17 @@
         "Planed and presented activities for the members.",
         "Organize and manage the events.",
         "Attended a community festival to interact with local kids."
+      ]
+    },
+    {
+      "organization": "High School Brass Band Club",
+      "website": "https://lccjapancircle.weebly.com/",
+      "position": "Concert Master",
+      "startDate": "2010-4-01",
+      "endDate": "2011-3-31",
+      "summary": "",
+      "highlights": [
+        "Lead a brass band club with 70 members as a concert master.",
       ]
     }
   ],
